@@ -31,6 +31,8 @@ http://iptv.jkbans.top:4012/rtp/239.254.200.9:8264
 http://iptv.jkbans.top:4012/rtp/239.254.200.162:6000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://iptv.jkbans.top:4012/rtp/239.254.201.124:8136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-16
+http://iptv.jkbans.top:4012/rtp/239.254.200.61:6344
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://iptv.jkbans.top:4012/rtp/239.254.201.120:8144
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="数字付费",CCTV4K
