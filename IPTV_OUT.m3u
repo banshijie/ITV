@@ -49,8 +49,10 @@ http://10.0.0.1:4012/rtp/239.254.201.220:7256
 http://10.0.0.1:4012/rtp/239.254.200.225:6259
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",河北农民
 http://10.0.0.1:4012/rtp/239.254.200.23:6000
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他",上海纪实
-http://10.0.0.1:4012/rtp/239.254.200.58:8060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",河北经济
+http://10.0.0.1:4012/rtp/239.254.200.18:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",河北都市
+http://10.0.0.1:4012/rtp/239.254.200.19:6000
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他",金鹰纪实
 http://10.0.0.1:4012/rtp/239.254.200.189:6293
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" tvg-id="1874" tvg-name="BTV科教" group-title="其他",BTV科教
